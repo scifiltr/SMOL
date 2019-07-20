@@ -1,5 +1,5 @@
 <h2>Smart Methods of Leporellion (SMOL)</h2>
-<small>Use a UNICODE reference to work with simple SMOL in a Texteditor without using the complex Leporellion Font Family. To show RUNICODE correctly on the Internet, you must have the appropriate UTF referenced in your HTML, so that the specific ENTITY is implemented directly.</small>
+<small>Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor without using Fonts or Glyphs. To show RUNICODE correctly on the Internet, you must have the appropriate UTF referenced in your HTML, so that the specific ENTITY is implemented directly.</small>
 <hr>
 <table id="mySMOL">
   <tr class="header">
@@ -1476,6 +1476,4 @@
 <td>Wellish</td>
 <td><code>&amp;colon;&amp;minus;&amp;lpar;&amp;lpar;&amp;equiv;&amp;lsqb;&amp;minus;8&amp;minus;8&amp;minus;&amp;rsqb;&amp;equiv;</code></td>
      </tr>
-     
 </table>
-
