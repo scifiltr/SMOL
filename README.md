@@ -49,5 +49,6 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>the law of arrangement is SMOL approved, also because we only use 0 and 1 as content placeholder instead of a bulk of characters</li>
 <li>NewMorse++ presented here can be read from left to right, but had to be rearranged where the digits are reflected horizontally</li>
 <li>instead of a binary encoding, we can also use alphabetical RUNICONS (lower case x for 1 and lower case o for 0 on a 3x3 field) - but we favor barrier-free notation without having to install and maintain a font or glyph – read it line by line</li>
-<li>the reading direction differs from VisualBraille (row by row in a 3x3 field)
+<li>the reading direction differs from VisualBraille (row by row in a 3x3 field)</li>
+<li>to make it easier to learn, we do not use decorative nor table elements</li>  
 <li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li>
