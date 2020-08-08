@@ -37,16 +37,17 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>write or draw if you like, e.g. use a well-known punctuation or binary Morsecode (NewMorse++) as equivalent to the font NewMorse (v3)</li>
 <li>dots and dashes could also be used to align the arrangement of symbols on top of each other, so to reconcile them with the prophecy symbols (mono-, di-, tri- and tetragrams etc.) – give it a try!</li>
 <li>I recommend a sample of preselected key assignment to start with</li>
-<h3>Binary Encoding NewMorse++ in bits</h3>
-<li>is a binary transformation of NewMorse (v3) and NewMorse+</li>
-<li>a binary encoding displays DIT and DAH or DOTS and DASHES</li>
-<li>we group string into bits (8 bits = 1 byte), the eighth digit is called check bit</li>
-<li>word spacing is three binary 0 long instead of three DITS (traffic sign PAUSE)</li>
+<h3>Non-binary Encoding NewMorse++ in digits</h3>
+<li>is a unusual binary transformation of NewMorse (v3) and NewMorse+</li>
+<li>a non-binary encoding of 0 and 1 displace DIT and DAH or DOTS and DASHES</li>
+<li>is inconstent with regular bits (8 bits = 1 byte), the eighth digit is called check bit</li>
+<li>word spacing is three non-binary 0 long instead of three DITS (traffic sign PAUSE)</li>
 <li>we are using preceded capital, number and traffic sign that we are familiar with</li>
 <li>to capitalize, you must prefix the letter with a Capital Sign ( 1000101 ) instead of highlighting them with underlines</li> 
 <li>letters still have approximately four digits, punctuation has up to six digits and numbers have only five digits</li>
-<li>there is no relationship to ´regular´ base 10 or ´binary´ base 2 - first and foremost, we would have to translate NewMorse++ into ABC or Basic Leporellion charset and then into machine language (e.g. binary coded decimal numbers from 0 to 9); if you want to use the shortened binary characters, then you have to anticipate a Number Sign ( 1000101 )</li>
+<li>note: there is no relationship to ´regular´ base 10 or ´binary´ base 2 - first and foremost, we would have to translate NewMorse++ into ABC or Basic Leporellion charset and then into machine language (e.g. binary coded decimal numbers from 0 to 9); if you want to use the shortened non-binary characters with numbers, then you have to anticipate a Number Sign ( 1000101 )</li>
 <li>the law of arrangement is SMOL approved, also because we only use 0 and 1 as content placeholder instead of a bulk of characters</li>
 <li>NewMorse++ presented here can be read from left to right, but had to be rearranged where the digits are reflected horizontally</li>
 <li>instead of a binary encoding, we can also use alphabetical RUNICONS (lower case x for 1 and lower case o for 0 on a 3x3 field) - but we favor barrier-free notation without having to install and maintain a font or glyph – read it line by line</li>
+<li>the reading direction differs from VisualBraille (row by row in a 3x3 field)
 <li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li>
