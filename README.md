@@ -1,7 +1,11 @@
 <h2>Smart Methods of Leporellion (SMOL)</h2>
 <small>SMOL is a notation language that can be written and read from left to right, or vice versa. SMOL transform the LATIN ALPHABET into an universal ABC. The final task is to write in a universal and non-verbal notation but spelling it in intercultural dialects or national languages. Smart Methods of Leporellion (SMOL) are NewMorse (v3), VisualBraille (9-dot), Ideogrammar and Wellish paired with syllables, logograms, emoticons, glyphs, abbreviation and smart messages.
-Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor without using Fonts or Glyphs. To show RUNICODES correctly on the Internet, you must have the appropriate UTF referenced in your HTML, so that the specific ENTITY is implemented directly. In some cases, the correct fonts (NewMorse, VisualB raille, MusicTypewriter) must be installed in your (text) editor. I prefer a noSQL database (.csv, .tsv). Use other files at your own purpose. This will continue to include a Complete RUNICONS Reference and Basic Leporellion Charset, while continuing the motto: Keeping it SMOL! Note, please share the original source and do not conquer over SMOL alone!</small>
-<img src="https://github.com/scifiltr/SMOL/blob/master/statistic.png"></img>
+Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor without using Fonts or Glyphs. To show RUNICODES correctly on the Internet, you must have the appropriate UTF referenced in your HTML, so that the specific ENTITY is implemented directly. In some cases, the correct fonts (NewMorse, VisualBraille, MusicTypewriter) must be installed in your (text) editor. I prefer a noSQL database (.csv, .tsv). Use other files (.pdf, .xlsx) at your own purpose. This will continue to include a Complete RUNICONS Reference and Basic Leporellion Charset, while continuing the motto: Keeping it SMOL! Note, please share the original source and do not conquer over SMOL alone! </small>
+<img src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-1.png"></img>
+<small>And that’s far from the end. To date, SMOL has grown to 2,417 notations and is still hungry for more. SMOL ...</small><br>
+<li>include a dozen ways of expression except those of a conventional Alphabet!</li>
+<li>offers types of composing do without pronunciation!</li>
+<li>can be universal coded for more cases of application!</li>
 <hr>
 <h3>Prophecy Symbols</h3>
 <li>inclusion of prophecy symbols written line by line</li>
