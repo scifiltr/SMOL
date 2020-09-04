@@ -7,6 +7,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <hr>
+<h3>VisualBraille</h3>
+<li></li>
 <h3>MusicTypewriter 1 a/b for Piano</h3>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
