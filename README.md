@@ -7,6 +7,29 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <hr>
+<h3>MusicTypewriter 1 a/b for Piano</h3>
+<li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
+<li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
+<li>the conventional Alphabet has 26 letters so that using the first white 26 keys for upper cases / starting a new sentence / beginning a word (A - Z ) and the others for lower cases (a - z)</li>
+<li>black keys used for vowels (a, e, i, o, u) then adding these to each upper and lower cases so that black keys always representing a pair of consonants and vowels</li>
+<li>for flat notes we put the vowels first (e.g. ub, ib), for sharp notes we put vowels after (e.g. Au, ai)</li>
+<li>for frequent syllables (-ing, -ed), pronouns (he, she, it, you, we, they), common words (to, be, or, and, from, for, of, are. have, had) and literal characters (ae, oe, ch, sch, st, sz) we should build chords</li>
+<li>trigger the full notes for A to Z with SHIFT, flat/sharp notes corresponding letter A to Z press ALT-SHIFT</li>
+<li>trigger the full notes for a to z without SHIFT, flat/sharp notes corresponding letter a to z press ALT</li>
+<li>combination of ALT and number keys 1 to 9, 0 and ß write only flat/sharp notes corresponding to consonantal keying 45 to 88 (mid to right)</li>
+<li>combination of ALT-SHIFT and number keys 1 to 9 and 0 write flat/sharp notes corrensponding to consonantal keying 0 to 45 (left to mid)</li>
+<li>at the end MusicTypewriter contains 124 glyphs thereof visualized tones that represents 52 white keys and 2 times 36 black keys</li>
+<li>instead of connecting staves we highlight the chords in colors or underline them</li>
+<li>MusicTypewriter 1a uses a 9-dot stamping with subtext so that the written composition shows piano keying and the octaves at the same time</li>
+<li>MusicTypewriter 1b uses a Shortcode that represents the regular notes assigned to the number of keys whereby the corresponding Alphabet is not be displayed</i> 
+<li>we can ignore bass and treple clef, because we are using a font instead of sheets of music!</li>
+<h3>MusicTypewriter+</h3>
+<li>is a non-binding format: fraction.variable(t) fraction.variable(v) (...) fraction.variable(m)</li>
+<li>points should be omitted then nesting the alphanumeric notes (a1, ais1) in parenthesis like a mathematical term</li>
+<li>also put chords and frequently syllables in a term for later copy and paste</li>  
+<li>working with variables (v=value, m=mute, t=tact-time) and fractions (1/1, 1/2, and so on)</li>
+<li>MusicTypewriter+ follows the consonantal arrangement on a Piano, each letter and flat/sharp notes has a strict formular: c'=1/c''(X) ... e'=10/9d'(Z), f'=16/15e'(a), fis'=25/24f'(ai), ges'=24/25g'(ib) ... a'=10/9(c) ... a''=2a'(j) and so on </li>
+<li>the rules can be applied to Guitar strings and stick/pedal operater for Drums/Percussions, but with a smaller range of the Law of Octaves!</li>
 <h3>Prophecy Symbols</h3>
 <li>inclusion of prophecy symbols written line by line</li>
 <li>using prophecy symbols as dialectical Runicons or solution word in SMOL instead of letters</li>
