@@ -7,16 +7,21 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <hr>
-<h3>VisualBraille</h3>
+<h3>VisualBraille (9-dot)</h3>
 <li>using 9-dot was to effect an economy in layout and sign replication</li>
 <li>read dot by dot through 3 columns and 3 rows: 1st column (dot 1,2,3), 2nd column (dot 4,5,6), 3rd column (dot 7, 8, 9)</li>
 <li>is not compatible with a refreshable braille display which has 8 dots in 4 rows</li>
 <li>in the use of numerical letters we are more flexible</li>
 <li>we implement the experience in dealing with Traffic Signs in NewMorse (v2)</li>
-<li>the Basic Sign act as proxies to help us access the whole Basic Latin charset</li>
-<li>keeping the usual spelling and dot stamping in the color black instead of sensible stamping</li>
+<li>Basic Signs act as proxies to help access the whole Basic Latin charset</li>
+<li>keeping the usual spelling and dot stamping in the color black instead of sensible dots</li>
 <li>it doesn't matter if we prefer capitalization with a preceded capital sign</li>
-<li>the important difference to 6-dot Braille:  </li>
+<li>the important difference to 6-dot Braille: start sign 6-dot-Braille (0), start sign VisualBraille (9), preceded capital sign (ALT-h), preceded number sign (ALT-j), empty rune ¶ (ALT-3), preceded ALT sign † dagger (ALT-t), preceded ALT-SHIFT ‡ double dagger (ALT-SHIFT-y), number sign # hash-tag (ALT-SHIFT-3)</li>
+<li>also rules for punctuation arrangement in VisualBraille differs from 6-dot-Braille</li>
+<li>3rd column is now required when numbers are immediately followed by letters</li>
+<li>highlight sentences with a plicrow sign(¶) or use it as optional delimiter</li>
+<li>for each graphic letter there are rules for alphabetical and punctuation arrangement differentiated into 8 groups</li>
+<li></li>
 <h3>MusicTypewriter 1 a/b for Piano</h3>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
