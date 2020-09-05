@@ -21,7 +21,19 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>3rd column is now required when numbers are immediately followed by letters</li>
 <li>highlight sentences with a plicrow sign(¶) or use it as optional delimiter</li>
 <li>for each graphic letter there are rules for alphabetical and punctuation arrangement differentiated into 8 groups</li>
-<li></li>
+<li>group 1 / lower case a to j – Only two columns on two rows are occupied by dots. Third column and third row keep blank. </li>
+<li>group 2 / lower case k to t – Only dot 3 is added to group 1 (corresponds to letter a - j in lower case)</li>
+<li>group 3 / lower case u, v, x, y, z and ß (sz or ss) – Dot 3 and 6 are added to some letters of group 1 (corresponds to lowr case a to e and l. For sharp letter ß (sz/ss) dot 6 is added to lower case s in group 2. But for a better understanding the alphabetical arrangement we should use group 1 in the most cases. Third column keep blank.</li>
+<li>group 4 / lower case w, aggregate oe (ö) and ue (ü) – Only dot 6 are added to some letters of group 1. Lower case w corresponds to letter j. We use aggregates to avoid sign replication. The aggregates oe and ue corresponds to letter l and h. Third column keep blank.</li>
+<li>group 5 / Otherwise from letter arrangement that corresponds usually to group 1 there is no letter equivalent to aggregate ae – dot 3,4 and 5 built the letter. Third column keep blank. New is the accent circumflex (dot 2, 4 and 8) instead of traditional usage we will alienate the key (^). With a reverse accent circumflex (dot 1, 5 and 7) we can display the missing links (¡ with ALT-1, ¿ with ALT-ß). For both there are no aquivalent in 6-dot-Braille.</li>
+<li>group 6 / The following rules of punctuation arrangement corresponds to lower case a to j of group 1. Placed dots move just one row lower. Only first row and third column keep blank. But to make a punctuation we press the common keys sometimes in combination with SHIFT and ALT-SHIFT.</li>
+<li>group 7a numerical letters 6-dot-Braille / We use the keys a to j of group 1 that corresponds to the rules of alphabetical arrangements in 6-dots-Braille. Type the key a to j after the preceded number sign.</li>
+<li>group 7b upper cases 6-dot-Braille / Type the key a to z after the preceded capital sign. There is no capital sign needed at the beginning of a set after making a dot.</li>
+<li>group 8.0 numbers in 9-dot-Braille / For the Numerics use the keys above from graphical pad. The difference between graphical and numerical letters in 6-dot-Braille is unmistakable. VisualBraille make capital letters infrequently. For VisualBraille we should prefer the new Numerics in a bisected Domino stone and lower case by avoiding sign replication.</li>
+<li>group 8.1 other punctuation / First column always keep blank. Letter a and m move one column to the right to make the sign. We move the hash sign (#) one column to the right to differentiate it with a preceded number sign. Use a preceded Masterspace (@) to mention somebody or to place an E-Mail.</li>
+<li>group 8.1 rephrasing / We tackle the problem with double function of keys and missing signs for punctuation by rephrasing 6-dot-Braille. You remember that key for numeric 6 (&) triggers the glyph ‘plus’. Now just the sign + can be interpreted as an Ampersand (&). The en dashes are in clear contrast to an em dash.</li>
+<li>now we are able to display the remaining charset (hidden keys) with nine dots – somtimes we will alienate keys († dagger and ‡ double dagger)</li>
+<li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li>
 <h3>MusicTypewriter 1 a/b for Piano</h3>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
