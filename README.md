@@ -12,7 +12,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>read dot by dot through 3 columns and 3 rows: 1st column (dot 1,2,3), 2nd column (dot 4,5,6), 3rd column (dot 7, 8, 9)</li>
 <li>is not compatible with a refreshable braille display which has 8 dots in 4 rows</li>
 <li>in the use of numerical letters we are more flexible</li>
-<li>we implement the experience in dealing with Traffic Signs in NewMorse (v2)</li>
+<li>we implement the experience in dealing with Traffic Signs in NewMorse (v3)</li>
 <li>Basic Signs act as proxies to help access the whole Basic Latin charset</li>
 <li>keeping the usual spelling and dot stamping in the color black instead of sensible dots</li>
 <li>it doesn't matter if we prefer capitalization with a preceded capital sign</li>
