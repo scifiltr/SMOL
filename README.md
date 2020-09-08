@@ -7,7 +7,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <hr>
-<details><summary><h3>VisualBraille (9-dot)</h3></summary>
+<h3>VisualBraille (9-dot)</h3>
 <li>using 9-dot was to effect an economy in layout and sign replication</li>
 <li>read dot by dot through 3 columns and 3 rows: 1st column (dot 1,2,3), 2nd column (dot 4,5,6), 3rd column (dot 7, 8, 9)</li>
 <li>is not compatible with a refreshable braille display which has 8 dots in 4 rows</li>
@@ -33,7 +33,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>group 8.1 other punctuation / First column always keep blank. Letter a and m move one column to the right to make the sign. We move the hash sign (#) one column to the right to differentiate it with a preceded number sign. Use a preceded Masterspace (@) to mention somebody or to place an E-Mail.</li>
 <li>group 8.1 rephrasing / We tackle the problem with double function of keys and missing signs for punctuation by rephrasing 6-dot-Braille. You remember that key for numeric 6 (&) triggers the glyph ‘plus’. Now just the sign + can be interpreted as an Ampersand (&). The en dashes are in clear contrast to an em dash.</li>
 <li>now we are able to display the remaining charset (hidden keys) with nine dots – somtimes we will alienate keys († dagger and ‡ double dagger)</li>
-<li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li></details>
+<li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li>
 <h3>MusicTypewriter 1 a/b for Piano</h3>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
