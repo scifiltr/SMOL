@@ -8,7 +8,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>can be universal coded for more cases of application!</li>
 <hr>
 <h3>Entering a new Linguistic Space</h3>
-<detail><summary>VisualBraille (9-dot)</summary>
+<details><summary>VisualBraille (9-dot)</summary>
 <li>using 9-dot was to effect an economy in layout and sign replication</li>
 <li>read dot by dot through 3 columns and 3 rows: 1st column (dot 1,2,3), 2nd column (dot 4,5,6), 3rd column (dot 7, 8, 9)</li>
 <li>is not compatible with a refreshable braille display which has 8 dots in 4 rows</li>
