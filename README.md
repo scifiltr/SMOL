@@ -35,7 +35,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>group 8.1 rephrasing / We tackle the problem with double function of keys and missing signs for punctuation by rephrasing 6-dot-Braille. You remember that key for numeric 6 (&) triggers the glyph ‘plus’. Now just the sign + can be interpreted as an Ampersand (&). The en dashes are in clear contrast to an em dash.</li>
 <li>now we are able to display the remaining charset (hidden keys) with nine dots – somtimes we will alienate keys († dagger and ‡ double dagger)</li>
 <li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li></details>
-<details><summmary>MusicTypewriter 1 a/b for Piano</summary>
+<details><summary>MusicTypewriter 1 a/b for Piano</summary>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
 <li>the conventional Alphabet has 26 letters so that using the first white 26 keys for upper cases / starting a new sentence / beginning a word (A - Z ) and the others for lower cases (a - z)</li>
