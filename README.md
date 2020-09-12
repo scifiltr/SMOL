@@ -92,7 +92,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>write or draw if you like, e.g. use a well-known punctuation or binary Morsecode (NewMorse++) as equivalent to the font NewMorse (v3)</li>
 <li>dots and dashes could also be used to align the arrangement of symbols on top of each other, so to reconcile them with the prophecy symbols (mono-, di-, tri- and tetragrams etc.) – give it a try!</li>
 <li>I recommend a sample of preselected key assignment to start with</li></details>
-<hdetails><summary>Non-binary Encoding NewMorse++ in digits</summary>
+<details><summary>Non-binary Encoding NewMorse++ in digits</summary>
 <li>is a unusual binary transformation of NewMorse (v3) and NewMorse+</li>
 <li>a non-binary encoding of 0 and 1 displace DIT and DAH or DOTS and DASHES</li>
 <li>is inconstent with regular bits (8 bits = 1 byte), the eighth digit is called check bit</li>
