@@ -7,7 +7,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <hr>
-<h3>VisualBraille (9-dot)</h3>
+<h3>Entering a new Linguistic Space</h3>
+<detail><summary>VisualBraille (9-dot)</summary>
 <li>using 9-dot was to effect an economy in layout and sign replication</li>
 <li>read dot by dot through 3 columns and 3 rows: 1st column (dot 1,2,3), 2nd column (dot 4,5,6), 3rd column (dot 7, 8, 9)</li>
 <li>is not compatible with a refreshable braille display which has 8 dots in 4 rows</li>
@@ -33,8 +34,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>group 8.1 other punctuation / First column always keep blank. Letter a and m move one column to the right to make the sign. We move the hash sign (#) one column to the right to differentiate it with a preceded number sign. Use a preceded Masterspace (@) to mention somebody or to place an E-Mail.</li>
 <li>group 8.1 rephrasing / We tackle the problem with double function of keys and missing signs for punctuation by rephrasing 6-dot-Braille. You remember that key for numeric 6 (&) triggers the glyph ‘plus’. Now just the sign + can be interpreted as an Ampersand (&). The en dashes are in clear contrast to an em dash.</li>
 <li>now we are able to display the remaining charset (hidden keys) with nine dots – somtimes we will alienate keys († dagger and ‡ double dagger)</li>
-<li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li>
-<h3>MusicTypewriter 1 a/b for Piano</h3>
+<li>from now on, Braille should not be intended solely for blind people, whoever thinks this way must be blind himself!</li></details>
+<details><summmary>MusicTypewriter 1 a/b for Piano</summary>
 <li>an introduction in the Law of Octaves by using an consonantal/alphanumeric Alphabet</li>
 <li>a piano has 88 keys thereof 52 are white whereby each full octaves has 5 black and 7 white keys (c, d, e, f, g, a, b)</li>
 <li>the conventional Alphabet has 26 letters so that using the first white 26 keys for upper cases / starting a new sentence / beginning a word (A - Z ) and the others for lower cases (a - z)</li>
@@ -49,15 +50,15 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>instead of connecting staves we highlight the chords in colors or underline them</li>
 <li>option 1a uses a 9-dot stamping with subtext so that the written composition shows piano keying and the octaves at the same time</li>
 <li>option 1b uses a Shortcode that represents the regular notes assigned to the number of keys whereby the corresponding Alphabet is not be displayed</i> 
-<li>we can ignore bass and treple clef, because we are using a font instead of sheets of music!</li>
-<h3>MusicTypewriter+</h3>
+<li>we can ignore bass and treple clef, because we are using a font instead of sheets of music!</li></details>
+<details><summary>MusicTypewriter+</summary>
 <li>is a non-binding format: fraction.variable(t) fraction.variable(v) (...) fraction.variable(m)</li>
 <li>points should be omitted then nesting the alphanumeric notes (a1, ais1) in parenthesis like a mathematical term</li>
 <li>also put chords and frequently syllables in a term for later copy and paste</li>  
 <li>working with variables (v=value, m=mute, t=tact-time) and fractions (1/1, 1/2, and so on)</li>
 <li>version follows the consonantal arrangement on a Piano, each letter and flat/sharp notes has a strict formular: c'=1/c''(X) ... e'=10/9d'(Z), f'=16/15e'(a), fis'=25/24f'(ai), ges'=24/25g'(ib) ... a'=10/9(c) ... a''=2a'(j) and so on </li>
-<li>the rules can be applied to Guitar strings and stick/pedal operater for Drums/Percussions, but with a smaller range of the Law of Octaves!</li>
-<h3>Prophecy Symbols</h3>
+<li>the rules can be applied to Guitar strings and stick/pedal operater for Drums/Percussions, but with a smaller range of the Law of Octaves!</li></details>
+<details><summary>Prophecy Symbols</summary>
 <li>inclusion of prophecy symbols written line by line</li>
 <li>using prophecy symbols as dialectical Runicons or solution word in SMOL instead of letters</li>
 <li>notation can be read from both left and right to improve understanding between different cultures</li>
@@ -65,8 +66,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>Monograms can have similarities to the traditional Morsecode (dit-dah)</li>
 <li>established charset supports simple Runicodes</li>
 <li>some characters (not highlighted) are already used in other contexts, e.g. social buttons, punctuation</li>
-<li>replace num with standard Unicode to display equivalent HTML Entity:  &#num;</li>
-<h3>Regular encoding NewMorse (v3) in dit, dah, doh</h3>
+<li>replace num with standard Unicode to display equivalent HTML Entity:  &#num;</li></details>
+<details><summary>Regular encoding NewMorse (v3) in dit, dah, doh</summary>
 <li>is a rearrangement of traditional Morsecode that eliminates language conflicts</li>
 <li>notation of monograms replaced with vertical DIT and DAH</li>
 <li>space between them are one DIT long, one DAH is two DIT long, word spacing is three DIT long</li>
@@ -76,8 +77,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>notation presented here can be read from left to right, but can be easily rearranged where the Runicons are reflected horizontally </li> 
 <li>the development of NewMorse brought forth new traffic signs and its own grammar keying known as Basic Leporellion charset</li>
 <li>CSS/Character Mapping and Typefont NewMorse (v3) Regular Formatting are available – ask me for!</li>
-<li>handwritten if you like, e.g. use the punctuation, HTML Entities (NewMorse+) or binary Morsecode (NewMorse++) as equivalent</li>
-<h3>Handwritten encoding NewMorse+ in dots and dashes</h3>
+<li>handwritten if you like, e.g. use the punctuation, HTML Entities (NewMorse+) or binary Morsecode (NewMorse++) as equivalent</li></details>
+<details><summary>Handwritten encoding NewMorse+ in dots and dashes</summary>
 <li>is a manual notation of NewMorse (v3) that eliminates technical troubleshooting with Basic Latin, SVG conversion, Illustrators</li>
 <li>notation in RUNICONS replaced with DOTS and DASHES without strict adherences to regular encoding in DIT and DAH</li>
 <li>you don’t need to make space between them, just paired charset and word spacing</li>
@@ -90,8 +91,8 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>development of NewMorse+ brought forth a more practicable use in Texteditors and HTML</li>
 <li>write or draw if you like, e.g. use a well-known punctuation or binary Morsecode (NewMorse++) as equivalent to the font NewMorse (v3)</li>
 <li>dots and dashes could also be used to align the arrangement of symbols on top of each other, so to reconcile them with the prophecy symbols (mono-, di-, tri- and tetragrams etc.) – give it a try!</li>
-<li>I recommend a sample of preselected key assignment to start with</li>
-<h3>Non-binary Encoding NewMorse++ in digits</h3>
+<li>I recommend a sample of preselected key assignment to start with</li></details>
+<hdetails><summary>Non-binary Encoding NewMorse++ in digits</summary>
 <li>is a unusual binary transformation of NewMorse (v3) and NewMorse+</li>
 <li>a non-binary encoding of 0 and 1 displace DIT and DAH or DOTS and DASHES</li>
 <li>is inconstent with regular bits (8 bits = 1 byte), the eighth digit is called check bit</li>
@@ -105,4 +106,4 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>instead of a binary encoding, we can also use alphabetical RUNICONS (lower case x for 1 and lower case o for 0 on a 3x3 field) - but we favor barrier-free notation without having to install and maintain a font or glyph – read it line by line</li>
 <li>the reading direction differs from VisualBraille (row by row in a 3x3 field)</li>
 <li>to make it easier to learn, we do not use decorative nor table elements</li>  
-<li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li>
+<li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li></details>
