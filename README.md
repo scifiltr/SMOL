@@ -115,4 +115,4 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>to make it easier to learn, we do not use decorative nor table elements</li>  
 <li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li></details>
 <hr>
-<h3>Constistent Advancement of the Syllable Method</h3>
+<h3>Consistent Advancement of the Syllable Method</h3>
