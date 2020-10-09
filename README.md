@@ -114,7 +114,16 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>to make it easier to learn, we do not use decorative nor table elements</li>  
 <li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li></details>
 <hr>
-<h3>Consistent Advancement of the Syllable Method</h3>
+<h3>Consistent Advancement of SMOL</h3>
+<div>a) by using SYLLABLES
+<table>
+<tr><td>	MORPHOLOGICAL TABLEAUX	</td>	<td>	 =<br>equals	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
+<tr><td>	://<br>hyper-/cyber-	</td>	<td>	://=<br>Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br>to behave<br>with integrity	</tr></td>
+<tr><td>	[ ]<br>solution cell empty	</td>	<td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br>trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br>Homo Socios<br> Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br>Homo<br>Android Erectus	</tr></td>
+<tr><td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br>Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br>digital consumer	</td>	<td>	 =[@]=<br>The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br>to walk tall<br>(fig.)	</tr></td>
+<tr><td>	 &equiv;[ ]&equiv;<br>trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br>to commit a breach of Internet neutrality	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br>Cyberpunk	</td>	<td>	" &equiv;[://@]&equiv;<br>cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br>double-dealing<br>(adj.)	</tr></td>  
+</table></div>
+<div>b) by using PRONOUNS</div>
 <hr>
 <h3>SMOL by the Numbers</h3><div>
 <div><img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-1.png"></img>
