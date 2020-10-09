@@ -115,15 +115,24 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>NewMorse++ shortened charset and is more practicable for SVG layout or handwritten TEXT formatting</li></details>
 <hr>
 <h3>Consistent Advancement of SMOL</h3>
-<div>a) by using SYLLABLES
+<div>a) by using SYLLABLE METHOD
 <table>
-<tr><td>	MORPHOLOGICAL TABLEAUX	</td>	<td>	 =<br>equals	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
+<tr><td>NARRATIVE-BASED TABLEAUX	</td>	<td>	 =<br>equals	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
 <tr><td>	://<br>hyper-/cyber-	</td>	<td>	://=<br>Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br>to behave<br>with integrity	</tr></td>
 <tr><td>	[ ]<br>solution cell empty	</td>	<td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br>trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br>Homo Socios<br> Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br>Homo<br>Android Erectus	</tr></td>
 <tr><td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br>Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br>digital consumer	</td>	<td>	 =[@]=<br>The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br>to walk tall<br>(fig.)	</tr></td>
 <tr><td>	 &equiv;[ ]&equiv;<br>trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br>to commit a breach of Internet neutrality	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br>Cyberpunk	</td>	<td>	" &equiv;[://@]&equiv;<br>cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br>double-dealing<br>(adj.)	</tr></td>  
 </table></div>
-<div>b) by using PRONOUNS</div>
+<div>b) by using GENDER TERM
+  <table>
+  <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	&#x260C;<br>conjunction	</td>	<td>	&#x26AC;<br>earth	</td>	<td>	&#x2609;<br>sun	</td>	<td>	&#x26AD;<br>marriage	</tr></td>
+<tr><td>	&#x26B2;<br>neuter	</td>	<td>	&#x260D;<br>opposition	</td>	<td>	&#x260A;<br>ascending (adj., pres-p)	</td>	<td>	&#x260A;&#x2609;<br>at sunrise	</td>	<td>	&#x26AE;<br>divorce	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;<br>female sign	</td>	<td>	&#x26A2;<br>female twins	</td>	<td>	&#x260B;<br>descending (adj., pres-p)	</td>	<td>	&#x260B;&#x2609;<br>at sunset	</td>	<td>	&#x26AF;<br>seriouspartnership<br> (unmarried)	</tr></td>
+<tr><td>	&#x2642;&#xFE0E;<br>male sign	</td>	<td>	&#x26A3;<br>male twins	</td>	<td>	&#x26AC;+)<br>anchor	</td>	<td>	&#x260A;&#x2609;-&#x260B;&#x2609;<br>from sunrise to sunset	</td>	<td>	&#x26AC; &#x23AE;&#x2609;<br>to manoeuvre oneself<br>into a favourable position	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;&#x2642;&#xFE0E;<br>siblings	</td>	<td>	&#x26A4;<br>twins	</td>	<td>	&#x26AC;&#x2264;<br>comet	</td>	<td>	_&#x2625;_<br>alien	</td>	<td>	&#x5C;&#x26B2;&#x2F;<br>human being	</tr></td>
+<tr><td>	&#x3C;369<br>sixty-nine position	</td>	<td>	&#x26B2;+&#x3E;<br>lineal descendant (addition to the family)	</td>	<td>&#x3D;&#x5B;&#x25;&#x5D;&#x3D;<br>relatives	</td>	<td>	&equals;&lsqb;69&rsqb;&equals;&#x3C;3<br>to struggle for love	</td>	<td>	&equiv;&#x5B;&#x26AF;&#x5D;&equiv;<br>single (not married)	</tr></td>
+  </table>
+</div>
 <hr>
 <h3>SMOL by the Numbers</h3><div>
 <div><img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-1.png"></img>
