@@ -117,7 +117,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <h3>Consistent Advancement of SMOL</h3>
 <div>a) by using SYLLABLE METHOD
 <table>
-<tr><td>NARRATIVE-BASED TABLEAUX	</td>	<td>	 =<br>equals	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
+<tr><td>NARRATIVE-BASED TABLEAUX	</td>	<td>	 =<br>equals (is)	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
 <tr><td>	://<br>hyper-/cyber-	</td>	<td>	://=<br>Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br>to behave<br>with integrity	</tr></td>
 <tr><td>	[ ]<br>solution cell empty	</td>	<td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br>trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br>Homo Socios<br> Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br>Homo<br>Android Erectus	</tr></td>
 <tr><td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br>Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br>digital consumer	</td>	<td>	 =[@]=<br>The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br>to walk tall<br>(fig.)	</tr></td>
