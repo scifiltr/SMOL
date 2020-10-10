@@ -127,7 +127,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
   <table>
   <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	&#x260C;<br>conjunction	</td>	<td>	&#x26AC;<br>earth	</td>	<td>	&#x2609;<br>sun	</td>	<td>	&#x26AD;<br>marriage	</tr></td>
 <tr><td>	&#x26B2;<br>neuter	</td>	<td>	&#x260D;<br>opposition	</td>	<td>	&#x260A;<br>ascending (adj., pres-p)	</td>	<td>	&#x260A;&#x2609;<br>at sunrise	</td>	<td>	&#x26AE;<br>divorce	</tr></td>
-<tr><td>	&#x2640;&#xFE0E;<br>female sign	</td>	<td>	&#x26A2;<br>female twins	</td>	<td>	&#x260B;<br>descending (adj., pres-p)	</td>	<td>	&#x260B;&#x2609;<br>at sunset	</td>	<td>	&#x26AF;<br>seriouspartnership<br> (unmarried)	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;<br>female sign	</td>	<td>	&#x26A2;<br>female twins	</td>	<td>	&#x260B;<br>descending (adj., pres-p)	</td>	<td>	&#x260B;&#x2609;<br>at sunset	</td>	<td>	&#x26AF;<br>serious partnership<br> (unmarried)	</tr></td>
 <tr><td>	&#x2642;&#xFE0E;<br>male sign	</td>	<td>	&#x26A3;<br>male twins	</td>	<td>	&#x26AC;+)<br>anchor	</td>	<td>	&#x260A;&#x2609;-&#x260B;&#x2609;<br>from sunrise to sunset	</td>	<td>	&#x26AC; &#x23AE;&#x2609;<br>to manoeuvre oneself<br>into a favourable position	</tr></td>
 <tr><td>	&#x2640;&#xFE0E;&#x2642;&#xFE0E;<br>siblings	</td>	<td>	&#x26A4;<br>twins	</td>	<td>	&#x26AC;&#x2264;<br>comet	</td>	<td>	_&#x2625;_<br>alien	</td>	<td>	&#x5C;&#x26B2;&#x2F;<br>human being	</tr></td>
 <tr><td>	&#x3C;369<br>sixty-nine position	</td>	<td>	&#x26B2;+&#x3E;<br>lineal descendant (addition to the family)	</td>	<td>&#x3D;&#x5B;&#x25;&#x5D;&#x3D;<br>relatives	</td>	<td>	&equals;&lsqb;69&rsqb;&equals;&#x3C;3<br>to struggle for love	</td>	<td>	&equiv;&#x5B;&#x26AF;&#x5D;&equiv;<br>single (not married)	</tr></td>
