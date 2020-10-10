@@ -121,7 +121,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <tr><td>	://<br>hyper-/cyber-	</td>	<td>	://=<br>Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br>to behave<br>with integrity	</tr></td>
 <tr><td>	[ ]<br>solution cell empty	</td>	<td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br>trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br>Homo Socios<br> Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br>Homo<br>Android Erectus	</tr></td>
 <tr><td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br>Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br>digital consumer	</td>	<td>	 =[@]=<br>The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br>to walk tall<br>(fig.)	</tr></td>
-<tr><td>	 &equiv;[ ]&equiv;<br>trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br>to commit a breach of Internet neutrality	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br>Cyberpunk	</td>	<td>	" &equiv;[://@]&equiv;<br>cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br>double-dealing<br>(adj.)	</tr></td>  
+<tr><td>	 &equiv;[ ]&equiv;<br>trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br>to commit a breach of Internet neutrality	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br>Cyberpunk	</td>	<td>&equiv;[://@]&equiv;<br>cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br>double-dealing<br>(adj.)	</tr></td>  
 </table></div>
 <div>b) by using GENDER TERM
   <table>
