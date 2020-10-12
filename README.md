@@ -143,7 +143,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
   </table>
 </div>
 <div>c) by using Hue Values
-  <table style="background-color: #000000">
+  <table style="background-color: #ffffff">
 
   </table>
   </div>
