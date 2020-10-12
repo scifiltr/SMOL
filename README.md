@@ -140,7 +140,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <tr><td>	&#x2640;&#xFE0E;/<br>wife of	</td>	<td>	&#x2642;&#xFE0E;/<br>husband of	</td>	<td>	a<br>feminine<br>ordinal indicator	</td>	<td>	o<br>masculine<br> ordinal indicator	</td>	<td>	x/y<br>antibody indicator	</tr></td>
 <tr><td>	c/u<br>upstream neighbour address<br>(cada una)	</td>	<td>	a/o<br>account of	</td>	<td>	c/o <br>care of	</td>	<td>	a/&#x26B2;<br>address to subject	</td>	<td>	&#x2640;&#xFE0E;/&#x2642;&#xFE0E;<br>friendship	</tr></td>
 <tr><td>	:)/&#x26B2;<br>to empathise	</td>	<td>	>/&#x260D;<br>majority situation<br>in the parliament	</td>	<td>	a&#x2237;o<br>equitable (adj.)	</td>	<td>	a=o<br>emancipated (adj.)	</td>	<td>	§&#x2237;§<br>with the same right (adj., postposed)	</tr></td>
-  </table>
+  </table style="background-color: #000000">
 </div>
 <div>c) by using Hue Values
   <table>
