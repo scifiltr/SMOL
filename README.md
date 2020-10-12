@@ -117,20 +117,29 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <h3>Consistent Advancement of SMOL</h3>
 <div>a) by using SYLLABLE METHOD
 <table>
-<tr><td>NARRATIVE-BASED TABLEAUX	</td>	<td>	 =<br>equals (is)	</td>	<td>	&equiv;<br>burger sign<br>(citizen)	</td>	<td>	@<br>spider monkey	</td>	<td>	@_ &#x23AE; _<br>mention<br>(plural term)	</tr></td>
-<tr><td>	://<br>hyper-/cyber-	</td>	<td>	://=<br>Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br>to behave<br>with integrity	</tr></td>
-<tr><td>	[ ]<br>solution cell empty	</td>	<td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br>trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br>Homo Socios<br> Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br>Homo<br>Android Erectus	</tr></td>
-<tr><td>	 =[ ]=<br>ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br>Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br>digital consumer	</td>	<td>	 =[@]=<br>The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br>to walk tall<br>(fig.)	</tr></td>
-<tr><td>	 &equiv;[ ]&equiv;<br>trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br>to commit a breach of Internet neutrality	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br>Cyberpunk	</td>	<td>&equiv;[://@]&equiv;<br>cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br>double-dealing<br>(adj.)	</tr></td>  
+  <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	 =<br> equals (is)	</td>	<td>	&equiv;<br> burger sign<br>(citizen)	</td>	<td>	@<br> spider monkey	</td>	<td>	@_ &#x23AE; _<br> mention<br>(plural term)	</tr></td>
+<tr><td>	://<br> hyper-/cyber-	</td>	<td>	://=<br> Internet neutrality	</td>	<td>	://≡<br> digital natives	</td>	<td>	://@<br> to mention sb./sth.	</td>	<td>	://@_ &#x23AE; _<br> to behave<br>with integrity	</tr></td>
+<tr><td>	[ ]<br> solution cell empty	</td>	<td>	 =[ ]=<br> ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 &equiv;[ ]&equiv;<br> trivalence sense,<br>(ACRO)	</td>	<td>	[@]<br> Homo Socios Oeconomicus	</td>	<td>	[@]_ &#x23AE; _<br> Homo<br>Android Erectus	</tr></td>
+<tr><td>	 =[ ]=<br> ambiguous sense,<br> equivocal (SYNO)	</td>	<td>	 =[://= ]=<br> Internet<br>without Frontiers	</td>	<td>	 =[ ://≡]=<br> digital consumer	</td>	<td>	 =[@]=<br> The Origin of Species<br> in the Internet Age	</td>	<td>	 =[ @_ &#x23AE; _]=<br> to walk tall<br>(fig.)	</tr></td>
+<tr><td>	 &equiv;[ ]&equiv;<br> trivalence sense<br>(ACRO)	</td>	<td>	 &equiv;[ ://=]&equiv;<br> to commit a breach of Internet neutrality 	</td>	<td>	 &equiv;[://&equiv;]&equiv;<br> cyberpunk	</td>	<td>	 &equiv;[://@]&equiv;<br> cybermobbing	</td>	<td>	 &equiv;[://@_ &#x23AE; _ ]&equiv;<br> double-dealing<br>(adj.)	</tr></td>
+<tr><td>	://#<br>tagging	</td>	<td>	://&#x2020;<br>request to send by a client (syllable + dagger)	</td>	<td>	&#x2021;<br>request to send by a server<br>(syllable + double dagger)	</td>	<td>	B://<br>IT surveillance	</td>	<td>	B://&equiv;<br>Big Brother is watching us	</tr></td>
+<tr><td>	B://#<br>tracing/tracking	</td>	<td>	B://Db<br>BIg Data	</td>	<td>	:-#<br>to keep a secret<br>(sealed lips)	</td>	<td>	://:-#<br>Internet Security	</td>	<td>	&#x221A;&#x3E;&#x3E;://<br>grassroots movement	</tr></td>
+<tr><td>	://&#x3C;&#x3C;3<br>Internet peeping	</td>	<td>	:&#x2212;=://!<br>someone is pinterested in	</td>	<td>	.&#x2212;)#://<br>someone follows sb./sth.	</td>	<td>	.&#x2212;)@://<br>somone mentions sb./sth.	</td>	<td>	Y://<br>Upload Filter	</tr></td>
+<tr><td>	&#x3C;3://:&#x2212;(p)*<br>sexting (stereotypical term)	</td>	<td>	@&#x2212;8&#x2212;8&#x2212;<br>in a roundabout way (adv.)	</td>	<td>	&#x3C;3@<br>from … with love	</td>	<td>	&#x3A;&#x2F;&#x2F;&#x20;&#x5C;&#x20;&#xA1;&#x29;&#x29;&#x20;&#x2F;<br>scifiltr	</td>	<td>	&#x3A;&#x2F;&#x2F;&#xB7;&#x29;&#x29;<br>Internet broadcasting	</tr></td>
+<tr><td>	&#x3E;&#x5F;<br>Terminal	</td>	<td>	&#x3E;&#x5F;&#x223C;<br>local directory	</td>	<td>	&#x3A;&#x2F;&#x2F;&#x3E;&#x5F;&#x223C;<br>Internet source	</td>	<td>	&#x5C;&#x23;&#x2F;&#x203E;<br>consumer basket	</td>	<td>	&#x3A;&#x2F;&#x2F;&#x203E;&#x5C;&#x23;&#x2F;&#x203E;<br>data preservation	</tr></td>
 </table></div>
 <div>b) by using GENDER TERM
   <table>
-  <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	&#x260C;<br>conjunction	</td>	<td>	&#x26AC;<br>earth	</td>	<td>	&#x2609;<br>sun	</td>	<td>	&#x26AD;<br>marriage	</tr></td>
+    <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	&#x260C;<br>conjunction	</td>	<td>	&#x26AC;<br>earth	</td>	<td>	&#x2609;<br>sun	</td>	<td>	&#x26AD;<br>marriage	</tr></td>
 <tr><td>	&#x26B2;<br>neuter	</td>	<td>	&#x260D;<br>opposition	</td>	<td>	&#x260A;<br>ascending (adj., pres-p)	</td>	<td>	&#x260A;&#x2609;<br>at sunrise	</td>	<td>	&#x26AE;<br>divorce	</tr></td>
-<tr><td>	&#x2640;&#xFE0E;<br>female sign	</td>	<td>	&#x26A2;<br>female twins	</td>	<td>	&#x260B;<br>descending (adj., pres-p)	</td>	<td>	&#x260B;&#x2609;<br>at sunset	</td>	<td>	&#x26AF;<br>serious partnership<br> (unmarried)	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;<br>female sign	</td>	<td>	&#x26A2;<br>female twins	</td>	<td>	&#x260B;<br>descending (adj., pres-p)	</td>	<td>	&#x260B;&#x2609;<br>at sunset	</td>	<td>	&#x26AF;<br>seriouspartnership<br> (unmarried)	</tr></td>
 <tr><td>	&#x2642;&#xFE0E;<br>male sign	</td>	<td>	&#x26A3;<br>male twins	</td>	<td>	&#x26AC;+)<br>anchor	</td>	<td>	&#x260A;&#x2609;-&#x260B;&#x2609;<br>from sunrise to sunset	</td>	<td>	&#x26AC; &#x23AE;&#x2609;<br>to manoeuvre oneself<br>into a favourable position	</tr></td>
 <tr><td>	&#x2640;&#xFE0E;&#x2642;&#xFE0E;<br>siblings	</td>	<td>	&#x26A4;<br>twins	</td>	<td>	&#x26AC;&#x2264;<br>comet	</td>	<td>	_&#x2625;_<br>alien	</td>	<td>	&#x5C;&#x26B2;&#x2F;<br>human being	</tr></td>
-<tr><td>	&#x3C;369<br>sixty-nine position	</td>	<td>	&#x26B2;+&#x3E;<br>lineal descendant (addition to the family)	</td>	<td>&#x3D;&#x5B;&#x25;&#x5D;&#x3D;<br>relatives	</td>	<td>	&equals;&lsqb;69&rsqb;&equals;&#x3C;3<br>to struggle for love	</td>	<td>	&equiv;&#x5B;&#x26AF;&#x5D;&equiv;<br>single (not married)	</tr></td>
+<tr><td>	&#x3C;369<br>sixty-nine position	</td>	<td>	&#x26B2;+&#x3E;<br>lineal descendant (addition to the family)	</td>	<td>	&#x3D;&#x5B;&#x25;&#x5D;&#x3D;<br>relatives	</td>	<td>	&equals;&lsqb;69&rsqb;&equals;&#x3C;3<br>to struggle for love	</td>	<td>	&equiv;&#x5B;&#x26AF;&#x5D;&equiv;<br>single (not married)	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;§§<br>Justizia; the court	</td>	<td>	:)&#x2640;&#xFE0E;§§<br>Justizia par excellence!<br>sth. works well in law or regulation	</td>	<td>	:(&#x2640;&#xFE0E;§§<br>Excuse-moi, Justizia!<br>sth. went wrong in law or regulation	</td>	<td>	&equiv;&#x2640;&#xFE0E;§§<br>to act on behalf of Justizia	</td>	<td>	≠&#x2640;&#xFE0E;§§<br>arbitrary law	</tr></td>
+<tr><td>	&#x2640;&#xFE0E;/<br>wife of	</td>	<td>	&#x2642;&#xFE0E;/<br>husband of	</td>	<td>	a<br>feminine<br>ordinal indicator	</td>	<td>	o<br>masculine<br> ordinal indicator	</td>	<td>	x/y<br>antibody indicator	</tr></td>
+<tr><td>	c/u<br>upstream neighbour address<br>(cada una)	</td>	<td>	a/o<br>account of	</td>	<td>	c/o <br>care of	</td>	<td>	a/&#x26B2;<br>address to subject	</td>	<td>	&#x2640;&#xFE0E;/&#x2642;&#xFE0E;<br>friendship	</tr></td>
+<tr><td>	:)/&#x26B2;<br>to empathise	</td>	<td>	>/&#x260D;<br>majority situation<br>in the parliament	</td>	<td>	a&#x2237;o<br>equitable (adj.)	</td>	<td>	a=o<br>emancipated (adj.)	</td>	<td>	§&#x2237;§<br>with the same right (adj., postposed)	</tr></td>
   </table>
 </div>
 <hr>
