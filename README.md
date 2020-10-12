@@ -142,6 +142,11 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <tr><td>	:)/&#x26B2;<br>to empathise	</td>	<td>	>/&#x260D;<br>majority situation<br>in the parliament	</td>	<td>	a&#x2237;o<br>equitable (adj.)	</td>	<td>	a=o<br>emancipated (adj.)	</td>	<td>	§&#x2237;§<br>with the same right (adj., postposed)	</tr></td>
   </table>
 </div>
+<div>c) by using Hue Values
+  <table>
+
+  </table>
+  </div>
 <hr>
 <h3>SMOL by the Numbers</h3><div>
 <div><img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-1.png"></img>
