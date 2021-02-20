@@ -1,11 +1,12 @@
 <h2>Smart Methods of Leporellion (SMOL)</h2>
 <small>The word Leporellion is derived from 'Leporello', a booklet of fonts and glyphs that the Mayans used for logging. The glyphs are commonly referred to as Runicons. Runicons are provided as implementable Runicodes. The founder, Jens T. Hinrichs, was inspired by the motif 'When the critic is silent, the world must speak in glyphs'.<br>SMOL is a notation language that can be written and read from left to right, or vice versa. SMOL transform the LATIN ALPHABET into an universal ABC. The final task is to write in a universal and non-verbal notation but spelling it in intercultural dialects or national languages. Smart Methods of Leporellion (SMOL) are NewMorse (v3), VisualBraille (9-dot), Ideogrammar and Wellish paired with syllables, logograms, emoticons, glyphs, abbreviation and smart messages.
 Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor without using Fonts or Glyphs. To show RUNICODES correctly on the Internet, you must have the appropriate UTF referenced in your HTML, so that the specific ENTITY is implemented directly. In some cases, the correct fonts (NewMorse, VisualBraille, MusicTypewriter) must be installed in your (text) editor. I prefer a noSQL database (.csv, .tsv). Use other files (.pdf, .xlsx) at your own purpose. This will continue to include a Complete RUNICONS Reference and Basic Leporellion Charset, while continuing the motto: Keeping it SMOL! Note, please share the original source and do not conquer over SMOL alone! </small><br>
-<small>And that’s far from the end. To date, SMOL has grown to 2,609 notations and is still hungry for more. SMOL ...<br><br>
+<small>And that’s far from the end. To date, SMOL has grown to 2,710 notations and is still hungry for more. SMOL ...<br><br>
 <li>include a dozen ways of expression except those of a conventional Alphabet!</li>
 <li>offers types of composing do without pronunciation!</li>
 <li>can be universal coded for more cases of application!</li>
 <li>connects intercultural forms of communication and documentation!</li></small>
+<li>uses colors as an alphabetical arrangement!
 <hr>
 <h3>Entering a new Linguistic Space</h3>
 <details><summary>T2Hue</summary>
@@ -157,9 +158,3 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <tr><td>	Key (Grey)	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	Q<br>QuicksilverDark<br> (Silver)<br>#c0c0c0	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	q<br>Quicksilver<br> (LightGrey)<br>#d3d3d3	</td>	<td>	#-Number Sign<br>#808080 (Grey)	</tr></td>
   </table></details>
   </div>
-<hr>
-<h3>SMOL by the Numbers</h3><div>
-<div><img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-1.png"></img>
-<img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-2.png"></img>
-<img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-3.png"></img>
-<img width="25%" src="https://github.com/scifiltr/SMOL/blob/master/SMOLstatistic-4.png"></img></div></div>
