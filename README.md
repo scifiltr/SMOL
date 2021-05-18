@@ -8,7 +8,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>connects intercultural forms of communication and documentation!</li>
 <li>uses colors as an alphabetical arrangement!</li>
 <li>implements finger alphabet and gestures besides short messaging!</li>
-<li>uses dit, dah and doh (NewMorse) besides bit-stamping (VisualBraille) besides 8-bit sequences in 0 and 1 (QuantumScript)!</li>
+<li>uses dit, dah and doh (NewMorse) besides bit-stamping (VisualBraille) and 8-bit sequences in 0 and 1 (QuantumScript)!</li>
 <li>uses computer keyboards and music instruments instead of human spelling!</li>  
 </small>
 <hr>
@@ -148,17 +148,3 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <tr><td>	:)/&#x26B2;<br>to empathise	</td>	<td>	>/&#x260D;<br>majority situation<br>in the parliament	</td>	<td>	a&#x2237;o<br>equitable (adj.)	</td>	<td>	a=o<br>emancipated (adj.)	</td>	<td>	§&#x2237;§<br>with the same right (adj., postposed)	</tr></td>
   </table></details>
 </div>
-<div><details><summary>c) by using HUE VALUES</summary>
-  <table width="50%">
-    <tr><td>	NARRATIVE-BASED<br>TABLEAUX	</td>	<td>	Cyan (Aqua)	</td>	<td>	Yellow	</td>	<td>	Magenta	</td>	<td>	Key (Black)	</td>	<td>	Red	</td>	<td>	Green (Lime)	</td>	<td>	Blue	</td>	<td>	Key (White)	</td>	<td>	Key (Grey)	</tr></td>
-<tr><td>	Cyan (Aqua)	</td>	<td>	A<br>#00ffff<br>Cyan (Aqua)	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	C<br>CyanBlue (unmixed)<br>#00ffff, #0000ff	</td>	<td>		</td>	<td>		</tr></td>
-<tr><td>	Yellow	</td>	<td>		</td>	<td>	Y<br>#ffff00<br>Yellow	</td>	<td>		</td>	<td>		</td>	<td>	O<br>Orange<br>#ffa500	</td>	<td>	y<br>YellowGreen<br>#9acd32	</td>	<td>	G<br>Green<br>#008000	</td>	<td>		</td>	<td>		</tr></td>
-<tr><td>	Magenta	</td>	<td>		</td>	<td>		</td>	<td>	M<br>#ff00ff<br>Magenta	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	m<br>MagentaLight (Pink)<br>#ff95ca	</td>	<td>		</tr></td>
-<tr><td>	Key (Black)	</td>	<td>	d<br>DarkCyan<br>#008b8b	</td>	<td>		</td>	<td>	D<br>DarkMagenta<br>#8b008b	</td>	<td>	K<br>#000000<br>Black	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	ALT-Key (unmixed)<br>#000000 (Black)<br>#ffffff (White)	</td>	<td>	Q<br>QuicksilverDark<br> (Silver)<br>#c0c0c0	</tr></td>
-<tr><td>	Red	</td>	<td>		</td>	<td>	O<br>Orange<br>#ffa500	</td>	<td>		</td>	<td>		</td>	<td>	R<br>#ff0000<br>Red	</td>	<td>		</td>	<td>		</td>	<td>	r<br>RedOrange<br> (Tomato)<br>#ff6347	</td>	<td>		</tr></td>
-<tr><td>	Green (Lime)	</td>	<td>		</td>	<td>	g<br>GreenYellow<br>#adff2f	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	 small l with ##32cd32 LimeGreen<br>big L with #00ff00 Green (Lime)	</td>	<td>		</td>	<td>		</td>	<td>		</tr></td>
-<tr><td>	Blue	</td>	<td>		</td>	<td>	G<br>Green<br>#008000	</td>	<td>		</td>	<td>		</td>	<td>	P<br>Purple<br>#800080	</td>	<td>		</td>	<td>	B<br>#0000ff<br>Blue	</td>	<td>		</td>	<td>		</tr></td>
-<tr><td>	Key (White)	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	ALT-SHIFT-Key (unmixed)<br>#ffffff (White)<br>#000000 (Black)	</td>	<td>	r<br>RedOrange<br> (Tomato)<br>#ff6347	</td>	<td>		</td>	<td>		</td>	<td>	k<br>#ffffff<br>Key (White)	</td>	<td>	q<br>Quicksilver (LightGrey)<br>#d3d3d3	</tr></td>
-<tr><td>	Key (Grey)	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	Q<br>QuicksilverDark<br> (Silver)<br>#c0c0c0	</td>	<td>		</td>	<td>		</td>	<td>		</td>	<td>	q<br>Quicksilver<br> (LightGrey)<br>#d3d3d3	</td>	<td>	#-Number Sign<br>#808080 (Grey)	</tr></td>
-  </table></details>
-  </div>
