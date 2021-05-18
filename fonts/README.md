@@ -1,1 +1,1 @@
-<img src="https://github.com/scifiltr/SMOL/fonts/">
+# How to use SMOL T2Hue.ttf on a website
