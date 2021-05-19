@@ -8,7 +8,7 @@ Use a UNICODE reference to work with simple SMOL in a Text- or HTML-Editor witho
 <li>connects intercultural forms of communication and documentation!</li>
 <li>uses colors as an alphabetical arrangement!</li>
 <li>implements finger alphabet and gestures besides short messaging!</li>
-<li>uses dit, dah and doh (NewMorse) besides bit-stamping (VisualBraille) and 8-bit sequences in 0 and 1 (QuantumScript)!</li>
+<li>uses dit, dah and doh besides bit-stamping and 8-bit sequences in 0 and 1 (QuantumScript)!</li>
 <li>uses computer keyboards and music instruments instead of human spelling!</li>  
 </small>
 <hr>
