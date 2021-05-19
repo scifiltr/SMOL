@@ -1,28 +1,5 @@
-<section>
-	<div>
-		<h1 class="biggest">Lorem ipsum</h1>
-		<p class="bigger">Dolor sit amet!</p>
-	</div>
-</section>
-  <section>
-	<div>
-		<h2 class="big">Entering a new linguistic space with SMOL T2Hue</h2>
-		<p class="big">SMOL T2Hue is an Open Typefont</p>
-	</div>
-</section>
-	<div>
-		<h4 class="smaller">"Make it simple, but not simpler." – Albert Einstein</h4>
-		<p class="smaller">"Keep it SMOL, but do it better. – Jens T. Hinrichs</p>	
-	</div>
-<section>
-	<div>
-		<h4 class="smaller">Alphabet</h4>
-		<p class="smaller">a b c d e f g h i j k l m n o p q r s t u v w x y z</p>
-		<p class="smaller">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
-		<p class="smaller">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
-		<p class="smaller">0 1 2 3 4 5 6 7 8 9</p>
-	</div>
-</section>
+<h1 class="biggest">Latest Updates</h1>
+
 <h1 class="biggest">How to use SMOL T2Hue in the Internet</h1>
 <p>Make sure the fonts are uploaded in the same html-directory. Then copy the code for css directly between the head-section:</p>
 
